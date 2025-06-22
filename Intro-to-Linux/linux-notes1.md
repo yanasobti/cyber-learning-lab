@@ -43,5 +43,8 @@ These are the core commands I practiced during the **TryHackMe: Linux Fundamenta
 I'm now comfortable using the terminal for file operations, directory navigation, and searching content.
 
 
-![Linux Badge]
-![Screenshot 2025-06-22 111525](https://github.com/user-attachments/assets/c870518c-80a0-4985-9318-aea7eb994573)
+
+![Linux Badge – TryHackMe](https://github.com/user-attachments/assets/c870518c-80a0-4985-9318-aea7eb994573)
+
+> 🐧 **Badge:** cat linux.txt  
+> 📘 *Proof of competency in basic Linux skills*
