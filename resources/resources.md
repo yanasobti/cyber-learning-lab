@@ -1,4 +1,4 @@
-# 📚 Learning Resources – Yana's Cyber Journey
+# 📚 Learning Resources 
 
 
 ## 🐧 Linux Resources
