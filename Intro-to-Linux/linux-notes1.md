@@ -32,13 +32,16 @@ grep "password" notes.txt  # Search for 'password' inside a file
 wc -l file.txt             # Count the number of lines in a file
 
 ~OPERATORS
->	Redirects output (overwrite)
->>	Redirects output (append)
-&	Runs command in background
-&&	Runs multiple commands in sequence
+(>)	Redirects output (overwrite)
+(>>)	Redirects output (append)
+(&)	Runs command in background
+(&&)	Runs multiple commands in sequence
 
 
 ## 📝 Notes:
 These are the core commands I practiced during the **TryHackMe: Linux Fundamentals** room.  
 I'm now comfortable using the terminal for file operations, directory navigation, and searching content.
 
+
+![Linux Badge]
+![Screenshot 2025-06-22 111525](https://github.com/user-attachments/assets/c870518c-80a0-4985-9318-aea7eb994573)
