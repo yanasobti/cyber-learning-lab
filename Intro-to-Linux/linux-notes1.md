@@ -17,30 +17,32 @@ Here are the key things I learned:
 
 ###  Commands I Practiced
 
-~BASH
-whoami         # Shows the user I'm logged in as
-ls             # Lists files/folders in the directory
-cd             # Changes directory (like navigating folders)
-pwd            # Shows the current directory path
-cat filename   # Displays the content of a file
-touch file     # Creates a new empty file
-mkdir folder   # Creates a new folder
+## ~BASH
+-whoami         # Shows the user I'm logged in as
+-ls             # Lists files/folders in the directory
+-cd             # Changes directory (like navigating folders)
+-pwd            # Shows the current directory path
+-cat filename   # Displays the content of a file
+-touch file     # Creates a new empty file
+-mkdir folder   # Creates a new folder
 
-~FINDING ABD SEARCHING
-find . -name "*.txt"       # Find all .txt files in current and subfolders
-grep "password" notes.txt  # Search for 'password' inside a file
-wc -l file.txt             # Count the number of lines in a file
+## ~FINDING AND SEARCHING
+-find . -name "*.txt"       # Find all .txt files in current and subfolders
+-grep "password" notes.txt  # Search for 'password' inside a file
+-wc -l file.txt             # Count the number of lines in a file
 
-~OPERATORS
-(>)	Redirects output (overwrite)
-(>>)	Redirects output (append)
-(&)	Runs command in background
-(&&)	Runs multiple commands in sequence
+## ~OPERATORS
+-(>)	Redirects output (overwrite)
+-(>>)	Redirects output (append)
+-(&)	Runs command in background
+-(&&)	Runs multiple commands in sequence
 
 
 ## 📝 Notes:
 These are the core commands I practiced during the **TryHackMe: Linux Fundamentals** room.  
 I'm now comfortable using the terminal for file operations, directory navigation, and searching content.
+
+
 
 
 
