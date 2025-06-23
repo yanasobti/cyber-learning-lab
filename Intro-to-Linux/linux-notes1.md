@@ -1,5 +1,7 @@
 # 📘 Yana's Linux Practice Notes – TryHackMe: Intro to Linux
 
+📅 Date: June 22, 2025
+
 **Status:** ✅ Room Completed  
 **Platform:** [TryHackMe – Linux Fundamentals](https://tryhackme.com/room/linuxfundamentals1)
 
