@@ -20,7 +20,9 @@ This repo is my **digital notebook + portfolio** — everything here is what I�
 
 If you're starting your own journey — I hope this helps you too! 🌱
 
+
 ---
 
+🎯 **Goal**: Build a strong cybersecurity foundation using Linux, networking, web hacking, and cloud security — and document everything to showcase real progress.
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yana-sobti-502383313/)  
 ⭐️ Star this repo if you find it helpful!
