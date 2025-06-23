@@ -1,4 +1,4 @@
-# 📘 Yana's Linux Practice Notes – TryHackMe: Intro to Linux
+# 📘 Intro to Linux - Day 1 Summary
 
 📅 Date: June 22, 2025
 
