@@ -1,4 +1,4 @@
-# 🐧 Linux Day-3 summary
+# 🐧 Linuxn - Day 3 Summary
 
 > 📅 **Date:** June 24, 2025  
 
