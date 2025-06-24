@@ -1,4 +1,4 @@
-# 🔐 Linux User Management – Day 2 Summary
+# 🔐 Linux – Day 2 Summary
 
 📅 Date: June 23, 2025   
 📁 This session focused on user creation, sudo privileges, system information,
