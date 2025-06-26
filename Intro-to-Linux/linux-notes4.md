@@ -1,5 +1,7 @@
 # 🐧 Linux Day 4 - Summary
 
+📅 Date: June 25, 2025
+
 This README summarizes key Linux commands for package management and service control. It's perfect for revision or as a beginner-friendly cheat sheet!
 
 ---
